@@ -1,6 +1,6 @@
 # Introduction to Jupyter Notebooks in VS Code
 
-# Hayley Massey - 28Jun2024 - Applied Machine Learning
+# Hayley Massey - 07Jul2024 - Applied Machine Learning
 
 ## Leveraged README from Denise Case
 
